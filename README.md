@@ -1,6 +1,7 @@
-### CKAD Exam Guide
+## CKAD Exam Guide
 
 I cleared CKAD recently (Nov 2020) on my first attempt. It was the most challenging certification till date for me but an equally gratifying one. I read lot of blogs on how to prepare for CKAD and really grateful for the ones who shared their wisdom and experience, so now it’s time to do the same.
+
 
 #### What is CKAD?
 CKAD is a comprehensive exam that could help software engineers strengthen their Kubernetes knowledge in practical way. It’s a complete hands on certification, so it not only needs your concepts to be clear but also be quick with configurations and commands.
@@ -25,6 +26,7 @@ CKAD certification detail links:
 * Schedule exam as per your convenience 
 * Take the exam online
 
+
 #### Exam pattern
 * 19 questions of different weightage
 * 2 hours 
@@ -40,7 +42,6 @@ CKAD certification detail links:
 * <a href="https://www.udemy.com/share/1013LO/" target="_blank">Kubernetes for the absolute beginners by Mumshad Mannambeth</a>
 * <a href="https://www.udemy.com/share/1013BQ/" target="_blank">Kubernetes certified application developer by Mumshad Mannambeth</a>
 These are the best courses to build your concepts on Docker and Kubernetes, and are also accompanied by online practice questions on Katacoda environment.
-
 * <a href="https://kubernetes.io/docs/home/" target="_blank">Kubernetes official documentation</a> (All relevant concepts and tasks)
 Once you are done with courses, go through all relevant topics and tasks on official documentation. You would have to refer this multiple times when practicing as well.
 
@@ -53,7 +54,6 @@ Once you are done with courses, go through all relevant topics and tasks on offi
 * <a href="https://github.com/lucassha/CKAD-resources" target="_blank">CKAD-resources</a>
 * <a href="https://github.com/twajr/ckad-prep-notes" target="_blank">ckad-prep-notes</a>
 * <a href="https://medium.com/chotot/tips-tricks-to-pass-certified-kubernetes-application-developer-ckad-exam-67c9e1b32e6e" target="_blank">Tips to learn & pass Certified Kubernetes Application Developer (CKAD) exam</a>
-
 
 
 #### Practice Material
@@ -82,7 +82,6 @@ Auto complete didn’t work for me, which created a minor hassle for me, and sti
 The timer bar is displayed, but it doesn’t shows the actual time remaining which is not very ideal.
 
 It’s an intense situation because you have to remain very focussed for 2 hours. But thankfully everything went smoothly. 
-
 
 
 #### Important tips
@@ -147,4 +146,4 @@ set sw=2 ts=2 sts=2
 
 
 #### Bookmarks
-[Here](ckad_bookmarks.html) Here are the bookmarks for all the tasks and configurations for quick navigation. Use this for your practice to get better familiarity.
+[Here](ckad_bookmarks.html) are the bookmarks for all the tasks and configurations for quick navigation. Import them and use this for your practice to get better familiarity.
