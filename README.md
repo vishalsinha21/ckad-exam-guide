@@ -147,3 +147,5 @@ set sw=2 ts=2 sts=2
 
 #### Bookmarks
 [Here](ckad_bookmarks.html) are the bookmarks for all the tasks and configurations for quick navigation. Import them and use this for your practice to get better familiarity.
+
+This is an extensive guide with my experience and has links to some very good blogs and practice questions. I hope this will help you in clearing your certification. All the best!
